@@ -1,8 +1,13 @@
 sandbox_build_topic_branch: vmware-wcp
 changeset: 6f41120ee0132b556a8a12c5cd0096bce71bdd56
-calico:
-  nsx:
+nsx:
+  calico:
+    testbed-ip:
   antrea:
+    testbed-ip:
 vds:
-  nsx:
+  calico:
+    testbed-ip:
   antrea:
+    testbed-ip:
+sandbox_build_number: sb-45859241
