@@ -10,4 +10,4 @@ vds:
     testbed-ip:
   antrea:
     testbed-ip:
-sandbox_build_number: sb-45859241sandbox_build_number: "sb"-45859241
+sandbox_build_number: sb-45859241
