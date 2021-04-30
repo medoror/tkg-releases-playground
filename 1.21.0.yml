@@ -3,32 +3,32 @@ sandbox_build_topic_branch: vmware-wcp
 changeset: 6f41120ee0132b556a8a12c5cd0096bce71bdd56
 nsx:
   calico:
-    testbed-ip: 10.78.209.251
+    testbed-ip:
     e2e:
-      status: FAILED
+      status:
     upgrade:
       from: ob-17861429
-      status: FAILED
+      status:
   antrea:
-    testbed-ip: null
+    testbed-ip:
     e2e:
-      status: null
+      status:
     upgrade:
       from: ob-17861429
-      status: null
+      status:
 vds:
   calico:
-    testbed-ip: null
+    testbed-ip:
     e2e:
-      status: null
+      status:
     upgrade:
       from: ob-17861429
-      status: null
+      status:
   antrea:
-    testbed-ip: null
+    testbed-ip:
     e2e:
-      status: null
+      status:
     upgrade:
       from: ob-17861429
-      status: null
-sandbox_build_number: sb-45859241
+      status:
+sandbox_build_number:
