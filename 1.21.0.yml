@@ -7,14 +7,14 @@ nsx:
     e2e:
       status: FAILED
     upgrade:
-      from: null
+      from: ob-17861429
       status: FAILED
   antrea:
     testbed-ip: null
     e2e:
       status: null
     upgrade:
-      from: null
+      from: ob-17861429
       status: null
 vds:
   calico:
@@ -22,13 +22,13 @@ vds:
     e2e:
       status: null
     upgrade:
-      from: null
+      from: ob-17861429
       status: null
   antrea:
     testbed-ip: null
     e2e:
       status: null
     upgrade:
-      from: null
+      from: ob-17861429
       status: null
 sandbox_build_number: sb-45859241
