@@ -8,7 +8,7 @@ nsx:
       status: null
     upgrade:
       from: null
-      status: null
+      status: FAILED
   antrea:
     testbed-ip: null
     e2e:
