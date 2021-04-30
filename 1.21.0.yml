@@ -27,7 +27,7 @@ vds:
   antrea:
     testbed-ip: 10.186.16.10
     e2e:
-      status: null
+      status: FAILED
     upgrade:
       from: ob-17861429
       status: null
