@@ -5,7 +5,7 @@ nsx:
   calico:
     testbed-ip: 10.186.7.104
     e2e:
-      status: null
+      status: FAILED
     upgrade:
       from: ob-17861429
       status: null
