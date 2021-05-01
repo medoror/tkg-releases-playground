@@ -10,7 +10,7 @@ nsx:
       from: ob-17861429
       status: null
   antrea:
-    testbed-ip: null
+    testbed-ip: 10.78.211.147
     e2e:
       status: null
     upgrade:
