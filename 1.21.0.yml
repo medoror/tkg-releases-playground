@@ -18,7 +18,7 @@ nsx:
       status: null
 vds:
   calico:
-    testbed-ip: 10.161.110.193
+    testbed-ip: 10.182.63.85
     e2e:
       status: FAILED
     upgrade:
