@@ -27,7 +27,7 @@ vds:
   antrea:
     testbed-ip: 10.186.18.197
     e2e:
-      status: FAILED
+      status: PASSED
     upgrade:
       from: ob-17861429
       status: null
