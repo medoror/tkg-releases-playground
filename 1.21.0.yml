@@ -31,4 +31,4 @@ vds:
     upgrade:
       from: ob-17861429
       status: null
-sandbox_build_number:
+sandbox_build_number: sb-46591464
