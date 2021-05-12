@@ -20,7 +20,7 @@ vds:
   calico:
     testbed-ip: 10.185.228.103
     e2e:
-      status: FAILED
+      status: PASSED
     upgrade:
       from: ob-17861429
       status: null
